@@ -1,11 +1,14 @@
 # MRCPapers
 Worth-reading paper list and other awesome resources on Machine Reading Comprehension (MRC) and Question Answering (QA). Suggestions about adding papers, repositories and other resource are welcomed!
 
-机器阅读理解领域值得一读的论文列表和其他相关资源合集。欢迎新增论文、代码仓库与其他资源等建议！
+机器阅读理解领域值得一读的论文列表和其他相关资源集合。欢迎新增论文、代码仓库与其他资源等建议！
 
-## Paper
+## PaperMi
 - Bidirectional Attention Flow for Machine Comprehension (ICLR 2017) [[paper]](https://openreview.net/forum?id=HJ0UKP9ge)[[code]](https://allenai.github.io/bi-att-flow/) - ***BiDAF***
 - SG-Net: Syntax-Guided Machine Reading Comprehension (AAAI 2020) [[paper]](https://arxiv.org/abs/1908.05147)[[code]](https://github.com/cooelf/SG-Net) - ***SG-Net***
+
+## Survey & Review & Tutorial
+- Research on Machine Reading Comprehension and Textual Question Answering (Minghao Hu's PhD thesis 2019 in Chinese) [[paper]](https://github.com/huminghao16/thesis)
 
 ## Dataset
 - SQuAD: 100,000+ Questions for Machine Comprehension of Text (EMNLP 2016) [[paper]](https://www.aclweb.org/anthology/D16-1264/)[[data]](https://github.com/rajpurkar/SQuAD-explorer/tree/master/dataset) - ***SQuAD 1.1***
