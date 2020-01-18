@@ -15,6 +15,7 @@ Worth-reading paper list and other awesome resources on machine reading comprehe
 - [lixinsu/RCZoo](https://github.com/lixinsu/RCZoo)
 - [sogou/SMRCToolkit](https://github.com/sogou/SMRCToolkit) - Sogou Machine Reading Comprehension (SMRC) toolkit based on TensorFlow
 - [songyingxin/BERT-MRC-RACE](https://github.com/songyingxin/BERT-MRC-RACE)
+- [tangbinh/question-answering](https://github.com/tangbinh/question-answering)
 - [YingZiqiang/PyTorch-MRCToolkit](https://github.com/YingZiqiang/PyTorch-MRCToolkit)
 - [thunlp/RCPapers](https://github.com/thunlp/RCPapers)
 - [seriousran/awesome-qa](https://github.com/seriousran/awesome-qa)
