@@ -9,7 +9,7 @@ Worth-reading paper list and other awesome resources on machine reading comprehe
 
 ## Dataset
 - SQuAD: 100,000+ Questions for Machine Comprehension of Text (EMNLP 2016) [[paper]](https://www.aclweb.org/anthology/D16-1264/)[[data]](https://github.com/rajpurkar/SQuAD-explorer/tree/master/dataset) - ***SQuAD 1.1***
-- Know What You Don't Know: Unanswerable Questions for SQuAD (ACL 2018) [[paper]](https://www.aclweb.org/anthology/P18-2124/)[[data]](https://github.com/rajpurkar/SQuAD-explorer/tree/master/dataset)
+- Know What You Don't Know: Unanswerable Questions for SQuAD (ACL 2018) [[paper]](https://www.aclweb.org/anthology/P18-2124/)[[data]](https://github.com/rajpurkar/SQuAD-explorer/tree/master/dataset) - ***SQuAD 2.0***
 
 ## Repository & Tool
 - [lixinsu/RCZoo](https://github.com/lixinsu/RCZoo)
