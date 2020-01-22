@@ -10,12 +10,14 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - DCMN+: Dual Co-Matching Network for Multi-choice Reading Comprehension (AAAI 2020) [[paper]](https://arxiv.org/abs/1908.11511.pdf) - ***DCMN+***
 
 ## Survey & Review & Tutorial
+- Neural Machine Reading Comprehension: Methods and Trends (Applied Sciences 2019) [[paper]](https://arxiv.org/abs/1907.01118)
 - Research on Machine Reading Comprehension and Textual Question Answering (Minghao Hu's PhD thesis 2019 in Chinese) [[paper]](https://github.com/huminghao16/thesis)
 
 ## Dataset
 - SQuAD: 100,000+ Questions for Machine Comprehension of Text (EMNLP 2016) [[paper]](https://www.aclweb.org/anthology/D16-1264/)[[data]](https://github.com/rajpurkar/SQuAD-explorer/tree/master/dataset) - ***SQuAD 1.1***
 - Know What You Don't Know: Unanswerable Questions for SQuAD (ACL 2018) [[paper]](https://www.aclweb.org/anthology/P18-2124/)[[data]](https://github.com/rajpurkar/SQuAD-explorer/tree/master/dataset) - ***SQuAD 2.0***
 - DuReader: a Chinese Machine Reading Comprehension Dataset from Real-world Applications (ACL 2018 QA workshop) [[paper]](https://www.aclweb.org/anthology/W18-2605/)[[data]](https://github.com/baidu/DuReader) - ***DuReader***
+- Investigating Prior Knowledge for Challenging Chinese Machine Reading Comprehension (TACL 2020) [[paper]](https://arxiv.org/abs/1904.09679)[[data]](https://github.com/nlpdata/c3) - ***C3***
 
 ## Repository & Toolkit
 - [allennlp-reading-comprehension](https://github.com/allenai/allennlp-reading-comprehension) - Reading comprehension tookit by the AllenNLP team
@@ -28,3 +30,8 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - [YingZiqiang/PyTorch-MRCToolkit](https://github.com/YingZiqiang/PyTorch-MRCToolkit)
 - [thunlp/RCPapers](https://github.com/thunlp/RCPapers)
 - [seriousran/awesome-qa](https://github.com/seriousran/awesome-qa)
+
+## Blog Post
+### Chinese
+- [“非自回归”也不差：基于MLM的阅读理解问答](https://kexue.fm/archives/7148)
+- [万能的seq2seq：基于seq2seq的阅读理解问答](https://kexue.fm/archives/7115)
