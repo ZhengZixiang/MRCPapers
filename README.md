@@ -3,9 +3,11 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 
 机器阅读理解领域值得一读的论文列表和其他相关资源集合。欢迎新增论文、代码仓库与其他资源等建议！
 
-## PaperMi
+## Paper
 - Bidirectional Attention Flow for Machine Comprehension (ICLR 2017) [[paper]](https://openreview.net/forum?id=HJ0UKP9ge)[[code]](https://allenai.github.io/bi-att-flow/) - ***BiDAF***
+- Dual Co-Matching Network for Multi-choice Reading Comprehension [[paper]](https://arxiv.org/abs/1901.09381) - ***DCMN***
 - SG-Net: Syntax-Guided Machine Reading Comprehension (AAAI 2020) [[paper]](https://arxiv.org/abs/1908.05147)[[code]](https://github.com/cooelf/SG-Net) - ***SG-Net***
+- DCMN+: Dual Co-Matching Network for Multi-choice Reading Comprehension (AAAI 2020) [[paper]](https://arxiv.org/abs/1908.11511.pdf) - ***DCMN+***
 
 ## Survey & Review & Tutorial
 - Research on Machine Reading Comprehension and Textual Question Answering (Minghao Hu's PhD thesis 2019 in Chinese) [[paper]](https://github.com/huminghao16/thesis)
