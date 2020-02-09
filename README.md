@@ -19,6 +19,7 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - Know What You Don't Know: Unanswerable Questions for SQuAD (ACL 2018) [[paper]](https://www.aclweb.org/anthology/P18-2124/)[[data]](https://github.com/rajpurkar/SQuAD-explorer/tree/master/dataset) - ***SQuAD 2.0***
 - DuReader: a Chinese Machine Reading Comprehension Dataset from Real-world Applications (ACL 2018 QA workshop) [[paper]](https://www.aclweb.org/anthology/W18-2605/)[[data]](https://github.com/baidu/DuReader) - ***DuReader***
 - HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering (EMNLP 2018) [[paper]](https://arxiv.org/abs/1809.09600)[[data]](https://hotpotqa.github.io/) - ***HotpotQA***
+- A Question-Entailment Approach to Question Answering (BMC Bioinformatics 20, 511 (2019)) [[paper]](https://arxiv.org/abs/1901.08079)[[data]](https://github.com/abachaa/MedQuAD) - ***MedQuAD***
 - CoQA: A Conversational Question Answering Challenge (NAACL 2019 & TACL 2019) [[paper]](https://arxiv.org/pdf/1808.07042.pdf) [[data]](https://stanfordnlp.github.io/coqa/) - ***CoQA***
 - Investigating Prior Knowledge for Challenging Chinese Machine Reading Comprehension (TACL 2020) [[paper]](https://arxiv.org/abs/1904.09679)[[data]](https://github.com/nlpdata/c3) - ***C3***
 - TYDI QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages (TACL 2020) [[paper]](https://storage.cloud.google.com/tydiqa/tydiqa.pdf)[[data]](https://github.com/google-research-datasets/tydiqa) - ***TyDi QA***
