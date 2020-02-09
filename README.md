@@ -8,6 +8,7 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - Dual Co-Matching Network for Multi-choice Reading Comprehension (CoRR 2019) [[paper]](https://arxiv.org/abs/1901.09381) - ***DCMN***
 - SG-Net: Syntax-Guided Machine Reading Comprehension (AAAI 2020) [[paper]](https://arxiv.org/abs/1908.05147)[[code]](https://github.com/cooelf/SG-Net) - ***SG-Net***
 - DCMN+: Dual Co-Matching Network for Multi-choice Reading Comprehension (AAAI 2020) [[paper]](https://arxiv.org/abs/1908.11511.pdf) - ***DCMN+***
+- Retrospective Reader for Machine Reading Comprehension [[paper]](https://arxiv.org/abs/2001.09694)[[Chinese blog]](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247502891&idx=1&sn=8f3d552ee384544d0b9a868e01b91ed9&key=5fa67e91c99877c949e72c80560ca0bb5dc99de132236c4b530784a3c3c2cc93a94dcd482b4968b128c7bc7553888c5df30cc4f734abb1a63a2bd02402645a9b966bd4291e333ef13e861eb06c80822a&ascene=1&uin=Mjg1NTM0NDcyMw%3D%3D&devicetype=Windows+10&version=6208006f&lang=zh_CN&exportkey=A%2BCwv01k%2FtyMn%2Ft38iF3KbY%3D&pass_ticket=nkIz09BYlgtIrHo7XkM4ahTkS8sck64jbLwU0LotdcTnxt2f%2FIuSGmn33Pc7gW1f) - ***Retro-Reader***
 
 ## Survey & Review & Tutorial
 - Neural Machine Reading Comprehension: Methods and Trends (Applied Sciences 2019) [[paper]](https://arxiv.org/abs/1907.01118)
@@ -17,7 +18,11 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - SQuAD: 100,000+ Questions for Machine Comprehension of Text (EMNLP 2016) [[paper]](https://www.aclweb.org/anthology/D16-1264/)[[data]](https://github.com/rajpurkar/SQuAD-explorer/tree/master/dataset) - ***SQuAD 1.1***
 - Know What You Don't Know: Unanswerable Questions for SQuAD (ACL 2018) [[paper]](https://www.aclweb.org/anthology/P18-2124/)[[data]](https://github.com/rajpurkar/SQuAD-explorer/tree/master/dataset) - ***SQuAD 2.0***
 - DuReader: a Chinese Machine Reading Comprehension Dataset from Real-world Applications (ACL 2018 QA workshop) [[paper]](https://www.aclweb.org/anthology/W18-2605/)[[data]](https://github.com/baidu/DuReader) - ***DuReader***
+- HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering (EMNLP 2018) [[paper]](https://arxiv.org/abs/1809.09600)[[data]](https://hotpotqa.github.io/) - ***HotpotQA***
+- CoQA: A Conversational Question Answering Challenge (NAACL 2019 & TACL 2019) [[paper]](https://arxiv.org/pdf/1808.07042.pdf) [[data]](https://stanfordnlp.github.io/coqa/) - ***CoQA***
 - Investigating Prior Knowledge for Challenging Chinese Machine Reading Comprehension (TACL 2020) [[paper]](https://arxiv.org/abs/1904.09679)[[data]](https://github.com/nlpdata/c3) - ***C3***
+- TYDI QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages (TACL 2020) [[paper]](https://storage.cloud.google.com/tydiqa/tydiqa.pdf)[[data]](https://github.com/google-research-datasets/tydiqa) - ***TyDi QA***
+
 
 ## Repository & Toolkit
 - [allennlp-reading-comprehension](https://github.com/allenai/allennlp-reading-comprehension) - Reading comprehension tookit by the AllenNLP team
@@ -32,6 +37,8 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - [seriousran/awesome-qa](https://github.com/seriousran/awesome-qa)
 
 ## Blog Post
+### English
+- [Beyond Local Pattern Matching: Recent Advances in Machine Reading](https://ai.stanford.edu/blog/beyond-local-pattern-matching/)
 ### Chinese
 - [“非自回归”也不差：基于MLM的阅读理解问答](https://kexue.fm/archives/7148)
 - [万能的seq2seq：基于seq2seq的阅读理解问答](https://kexue.fm/archives/7115)
