@@ -6,6 +6,7 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 ## Paper
 - Bidirectional Attention Flow for Machine Comprehension (ICLR 2017) [[paper]](https://openreview.net/forum?id=HJ0UKP9ge)[[code]](https://allenai.github.io/bi-att-flow/) - ***BiDAF***
 - Read + Verify: Machine Reading Comprehension with Unanswerable Questions (AAAI-2019) [[paper]](https://arxiv.org/pdf/1808.05759.pdf)[[unofficial code]](https://github.com/woshiyyya/Answer-Verifier-pytorch) - ***Verfier***
+- Cognitive Graph for Multi-Hop Reading Comprehension at Scale (ACL 2019) [[paper]](https://arxiv.org/abs/1905.05460) - ***CogQA***
 - Dual Co-Matching Network for Multi-choice Reading Comprehension (CoRR 2019) [[paper]](https://arxiv.org/abs/1901.09381) - ***DCMN***
 - SG-Net: Syntax-Guided Machine Reading Comprehension (AAAI 2020) [[paper]](https://arxiv.org/abs/1908.05147)[[code]](https://github.com/cooelf/SG-Net) - ***SG-Net***
 - DCMN+: Dual Co-Matching Network for Multi-choice Reading Comprehension (AAAI 2020) [[paper]](https://arxiv.org/abs/1908.11511.pdf) - ***DCMN+***
