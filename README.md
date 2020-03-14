@@ -8,6 +8,8 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - Read + Verify: Machine Reading Comprehension with Unanswerable Questions (AAAI-2019) [[paper]](https://arxiv.org/pdf/1808.05759.pdf)[[unofficial code]](https://github.com/woshiyyya/Answer-Verifier-pytorch) - ***Verfier***
 - Cognitive Graph for Multi-Hop Reading Comprehension at Scale (ACL 2019) [[paper]](https://arxiv.org/abs/1905.05460) - ***CogQA***
 - Dual Co-Matching Network for Multi-choice Reading Comprehension (CoRR 2019) [[paper]](https://arxiv.org/abs/1901.09381) - ***DCMN***
+- A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning (EMNLP 2019) [[paper]](https://arxiv.org/abs/1908.05514) - ***MTMSN***
+- Tag-based Multi-Span Extraction in Reading Comprehension (CoRR 2019) [[paper]](https://arxiv.org/abs/1909.13375)
 - SG-Net: Syntax-Guided Machine Reading Comprehension (AAAI 2020) [[paper]](https://arxiv.org/abs/1908.05147)[[code]](https://github.com/cooelf/SG-Net) - ***SG-Net***
 - DCMN+: Dual Co-Matching Network for Multi-choice Reading Comprehension (AAAI 2020) [[paper]](https://arxiv.org/abs/1908.11511.pdf) - ***DCMN+***
 - Retrospective Reader for Machine Reading Comprehension [[paper]](https://arxiv.org/abs/2001.09694)[[Chinese blog]](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247502891&idx=1&sn=8f3d552ee384544d0b9a868e01b91ed9&key=5fa67e91c99877c949e72c80560ca0bb5dc99de132236c4b530784a3c3c2cc93a94dcd482b4968b128c7bc7553888c5df30cc4f734abb1a63a2bd02402645a9b966bd4291e333ef13e861eb06c80822a&ascene=1&uin=Mjg1NTM0NDcyMw%3D%3D&devicetype=Windows+10&version=6208006f&lang=zh_CN&exportkey=A%2BCwv01k%2FtyMn%2Ft38iF3KbY%3D&pass_ticket=nkIz09BYlgtIrHo7XkM4ahTkS8sck64jbLwU0LotdcTnxt2f%2FIuSGmn33Pc7gW1f) - ***Retro-Reader***
@@ -23,6 +25,7 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering (EMNLP 2018) [[paper]](https://arxiv.org/abs/1809.09600)[[data]](https://hotpotqa.github.io/) - ***HotpotQA***
 - A Question-Entailment Approach to Question Answering (BMC Bioinformatics 20, 511 (2019)) [[paper]](https://arxiv.org/abs/1901.08079)[[data]](https://github.com/abachaa/MedQuAD) - ***MedQuAD***
 - CoQA: A Conversational Question Answering Challenge (NAACL 2019 & TACL 2019) [[paper]](https://arxiv.org/pdf/1808.07042.pdf) [[data]](https://stanfordnlp.github.io/coqa/) - ***CoQA***
+- DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs (NAACL 2019) [[paper]](https://arxiv.org/abs/1903.00161) - ***DROP***
 - Investigating Prior Knowledge for Challenging Chinese Machine Reading Comprehension (TACL 2020) [[paper]](https://arxiv.org/abs/1904.09679)[[data]](https://github.com/nlpdata/c3) - ***C3***
 - TYDI QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages (TACL 2020) [[paper]](https://storage.cloud.google.com/tydiqa/tydiqa.pdf)[[data]](https://github.com/google-research-datasets/tydiqa) - ***TyDi QA***
 
