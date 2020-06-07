@@ -18,6 +18,8 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 ## Survey & Review & Tutorial
 - Neural Machine Reading Comprehension: Methods and Trends (Applied Sciences 2019) [[paper]](https://arxiv.org/abs/1907.01118)
 - Research on Machine Reading Comprehension and Textual Question Answering (Minghao Hu's PhD thesis 2019 in Chinese) [[paper]](https://github.com/huminghao16/thesis)
+- Neural Reading Comprehension and Beyond (Danqi Chen's PhD thesis 2019) [[paper]](https://purl.stanford.edu/gd576xb1833)
+
 
 ## Dataset
 - SQuAD: 100,000+ Questions for Machine Comprehension of Text (EMNLP 2016) [[paper]](https://www.aclweb.org/anthology/D16-1264/)[[data]](https://github.com/rajpurkar/SQuAD-explorer/tree/master/dataset) - ***SQuAD 1.1***
@@ -27,21 +29,27 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - A Question-Entailment Approach to Question Answering (BMC Bioinformatics 20, 511 (2019)) [[paper]](https://arxiv.org/abs/1901.08079)[[data]](https://github.com/abachaa/MedQuAD) - ***MedQuAD***
 - CoQA: A Conversational Question Answering Challenge (NAACL 2019 & TACL 2019) [[paper]](https://arxiv.org/pdf/1808.07042.pdf) [[data]](https://stanfordnlp.github.io/coqa/) - ***CoQA***
 - DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs (NAACL 2019) [[paper]](https://arxiv.org/abs/1903.00161) - ***DROP***
+- ChID: A Large-scale Chinese IDiom Dataset for Cloze Test (ACL 2019) [[paper]](https://arxiv.org/abs/1906.01265) - ***ChID***
 - Investigating Prior Knowledge for Challenging Chinese Machine Reading Comprehension (TACL 2020) [[paper]](https://arxiv.org/abs/1904.09679)[[data]](https://github.com/nlpdata/c3) - ***C3***
 - TYDI QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages (TACL 2020) [[paper]](https://storage.cloud.google.com/tydiqa/tydiqa.pdf)[[data]](https://github.com/google-research-datasets/tydiqa) - ***TyDi QA***
 
 
 ## Repository & Toolkit
-- [allennlp-reading-comprehension](https://github.com/allenai/allennlp-reading-comprehension) - Reading comprehension tookit by the AllenNLP team
-- [ankit-ai/BertQA-Attention-on-Steroids](https://github.com/ankit-ai/BertQA-Attention-on-Steroids)
-- [alsang/BiDAF-pytorch](https://github.com/galsang/BiDAF-pytorch)
-- [lixinsu/RCZoo](https://github.com/lixinsu/RCZoo)
-- [sogou/SMRCToolkit](https://github.com/sogou/SMRCToolkit) - Sogou Machine Reading Comprehension (SMRC) toolkit based on TensorFlow
-- [songyingxin/BERT-MRC-RACE](https://github.com/songyingxin/BERT-MRC-RACE)
-- [tangbinh/question-answering](https://github.com/tangbinh/question-answering)
-- [YingZiqiang/PyTorch-MRCToolkit](https://github.com/YingZiqiang/PyTorch-MRCToolkit)
-- [thunlp/RCPapers](https://github.com/thunlp/RCPapers)
-- [seriousran/awesome-qa](https://github.com/seriousran/awesome-qa)
+- [AllenAI / allennlp-reading-comprehension](https://github.com/allenai/allennlp-reading-comprehension) - Reading comprehension tookit by the AllenNLP team
+- [ankit-ai / BertQA-Attention-on-Steroids](https://github.com/ankit-ai/BertQA-Attention-on-Steroids)
+- [alsang / BiDAF-pytorch](https://github.com/galsang/BiDAF-pytorch)
+- [cdqa-suite / cdQA](https://github.com/cdqa-suite/cdQA)
+- [cdqa-suite / cdQA-annotator](https://github.com/cdqa-suite/cdQA-annotator)
+- [deepset-ai / Haystack](https://github.com/deepset-ai/haystack)
+- [lixinsu / RCZoo](https://github.com/lixinsu/RCZoo)
+- [Sogou / SMRCToolkit](https://github.com/sogou/SMRCToolkit) - Sogou Machine Reading Comprehension (SMRC) toolkit based on TensorFlow
+- [songyingxin / BERT-MRC-RACE](https://github.com/songyingxin/BERT-MRC-RACE)
+- [tangbinh / question-answering](https://github.com/tangbinh/question-answering)
+- [YingZiqiang / PyTorch-MRCToolkit](https://github.com/YingZiqiang/PyTorch-MRCToolkit)
+- [THUNLP / RCPapers](https://github.com/thunlp/RCPapers)
+- [IndexFziQ / KMRC-Papers](https://github.com/IndexFziQ/KMRC-Papers)
+- [ymcui / Chinese-RC-Datasets](https://github.com/ymcui/Chinese-RC-Datasets)
+- [seriousran / awesome-qa](https://github.com/seriousran/awesome-qa)
 
 ## Blog Post
 ### English
