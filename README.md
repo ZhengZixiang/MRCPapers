@@ -19,7 +19,7 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - Neural Machine Reading Comprehension: Methods and Trends (Applied Sciences 2019) [[paper]](https://arxiv.org/abs/1907.01118)
 - Research on Machine Reading Comprehension and Textual Question Answering (Minghao Hu's PhD thesis 2019 in Chinese) [[paper]](https://github.com/huminghao16/thesis)
 - Neural Reading Comprehension and Beyond (Danqi Chen's PhD thesis 2019) [[paper]](https://purl.stanford.edu/gd576xb1833)
-
+- Open-Domain Question Answering (ACL 2020) [[slides]](https://github.com/danqi/acl2020-openqa-tutorial)
 
 ## Dataset
 - SQuAD: 100,000+ Questions for Machine Comprehension of Text (EMNLP 2016) [[paper]](https://www.aclweb.org/anthology/D16-1264/)[[data]](https://github.com/rajpurkar/SQuAD-explorer/tree/master/dataset) - ***SQuAD 1.1***
