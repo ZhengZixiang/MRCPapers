@@ -32,6 +32,7 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - ChID: A Large-scale Chinese IDiom Dataset for Cloze Test (ACL 2019) [[paper]](https://arxiv.org/abs/1906.01265) - ***ChID***
 - Investigating Prior Knowledge for Challenging Chinese Machine Reading Comprehension (TACL 2020) [[paper]](https://arxiv.org/abs/1904.09679)[[data]](https://github.com/nlpdata/c3) - ***C3***
 - TYDI QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages (TACL 2020) [[paper]](https://storage.cloud.google.com/tydiqa/tydiqa.pdf)[[data]](https://github.com/google-research-datasets/tydiqa) - ***TyDi QA***
+- MIMICS: A Large-Scale Data Collection for Search Clarification (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.10174)[[data]](https://github.com/microsoft/MIMICS) - ***MIMICS***
 
 
 ## Repository & Toolkit
@@ -41,15 +42,16 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - [cdqa-suite / cdQA](https://github.com/cdqa-suite/cdQA)
 - [cdqa-suite / cdQA-annotator](https://github.com/cdqa-suite/cdQA-annotator)
 - [deepset-ai / Haystack](https://github.com/deepset-ai/haystack)
+- [efficientqa/retrieval-based-baselines](https://github.com/efficientqa/retrieval-based-baselines) - Tutorials on training and testing retrieval-based models
+- [IndexFziQ / KMRC-Papers](https://github.com/IndexFziQ/KMRC-Papers)
 - [lixinsu / RCZoo](https://github.com/lixinsu/RCZoo)
+- [seriousran / awesome-qa](https://github.com/seriousran/awesome-qa)
 - [Sogou / SMRCToolkit](https://github.com/sogou/SMRCToolkit) - Sogou Machine Reading Comprehension (SMRC) toolkit based on TensorFlow
 - [songyingxin / BERT-MRC-RACE](https://github.com/songyingxin/BERT-MRC-RACE)
 - [tangbinh / question-answering](https://github.com/tangbinh/question-answering)
-- [YingZiqiang / PyTorch-MRCToolkit](https://github.com/YingZiqiang/PyTorch-MRCToolkit)
 - [THUNLP / RCPapers](https://github.com/thunlp/RCPapers)
-- [IndexFziQ / KMRC-Papers](https://github.com/IndexFziQ/KMRC-Papers)
+- [YingZiqiang / PyTorch-MRCToolkit](https://github.com/YingZiqiang/PyTorch-MRCToolkit)
 - [ymcui / Chinese-RC-Datasets](https://github.com/ymcui/Chinese-RC-Datasets)
-- [seriousran / awesome-qa](https://github.com/seriousran/awesome-qa)
 
 ## Blog Post
 ### English
