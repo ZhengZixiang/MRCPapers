@@ -42,6 +42,7 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - [cdqa-suite / cdQA](https://github.com/cdqa-suite/cdQA)
 - [cdqa-suite / cdQA-annotator](https://github.com/cdqa-suite/cdQA-annotator)
 - [deepset-ai / Haystack](https://github.com/deepset-ai/haystack)
+- [Facebook Research / ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets
 - [efficientqa/retrieval-based-baselines](https://github.com/efficientqa/retrieval-based-baselines) - Tutorials on training and testing retrieval-based models
 - [IndexFziQ / KMRC-Papers](https://github.com/IndexFziQ/KMRC-Papers)
 - [lixinsu / RCZoo](https://github.com/lixinsu/RCZoo)
