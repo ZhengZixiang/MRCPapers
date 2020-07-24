@@ -51,6 +51,7 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - [songyingxin / BERT-MRC-RACE](https://github.com/songyingxin/BERT-MRC-RACE)
 - [tangbinh / question-answering](https://github.com/tangbinh/question-answering)
 - [THUNLP / RCPapers](https://github.com/thunlp/RCPapers)
+- [xanhho / Reading-Comprehension-Question-Answering-Papers](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers) - Survey on Machine Reading Comprehension
 - [YingZiqiang / PyTorch-MRCToolkit](https://github.com/YingZiqiang/PyTorch-MRCToolkit)
 - [ymcui / Chinese-RC-Datasets](https://github.com/ymcui/Chinese-RC-Datasets)
 
