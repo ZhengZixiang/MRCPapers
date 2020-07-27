@@ -59,5 +59,6 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 ### English
 - [Beyond Local Pattern Matching: Recent Advances in Machine Reading](https://ai.stanford.edu/blog/beyond-local-pattern-matching/)
 ### Chinese
-- [“非自回归”也不差：基于MLM的阅读理解问答](https://kexue.fm/archives/7148)
-- [万能的seq2seq：基于seq2seq的阅读理解问答](https://kexue.fm/archives/7115)
+- [科学空间 / 学会提问的BERT：端到端地从篇章中构建问答对](https://kexue.fm/archives/7630)
+- [科学空间 / “非自回归”也不差：基于MLM的阅读理解问答](https://kexue.fm/archives/7148)
+- [科学空间 / 万能的seq2seq：基于seq2seq的阅读理解问答](https://kexue.fm/archives/7115)
