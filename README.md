@@ -22,18 +22,18 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - Open-Domain Question Answering (ACL 2020) [[slides]](https://github.com/danqi/acl2020-openqa-tutorial)
 
 ## Dataset
-- SQuAD: 100,000+ Questions for Machine Comprehension of Text (EMNLP 2016) [[paper]](https://www.aclweb.org/anthology/D16-1264/)[[data]](https://github.com/rajpurkar/SQuAD-explorer/tree/master/dataset) - ***SQuAD 1.1***
-- Know What You Don't Know: Unanswerable Questions for SQuAD (ACL 2018) [[paper]](https://www.aclweb.org/anthology/P18-2124/)[[data]](https://github.com/rajpurkar/SQuAD-explorer/tree/master/dataset) - ***SQuAD 2.0***
-- DuReader: a Chinese Machine Reading Comprehension Dataset from Real-world Applications (ACL 2018 QA workshop) [[paper]](https://www.aclweb.org/anthology/W18-2605/)[[data]](https://github.com/baidu/DuReader) - ***DuReader***
-- HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering (EMNLP 2018) [[paper]](https://arxiv.org/abs/1809.09600)[[data]](https://hotpotqa.github.io/) - ***HotpotQA***
-- A Question-Entailment Approach to Question Answering (BMC Bioinformatics 20, 511 (2019)) [[paper]](https://arxiv.org/abs/1901.08079)[[data]](https://github.com/abachaa/MedQuAD) - ***MedQuAD***
-- CoQA: A Conversational Question Answering Challenge (NAACL 2019 & TACL 2019) [[paper]](https://arxiv.org/pdf/1808.07042.pdf) [[data]](https://stanfordnlp.github.io/coqa/) - ***CoQA***
-- DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs (NAACL 2019) [[paper]](https://arxiv.org/abs/1903.00161) - ***DROP***
-- ChID: A Large-scale Chinese IDiom Dataset for Cloze Test (ACL 2019) [[paper]](https://arxiv.org/abs/1906.01265) - ***ChID***
-- Investigating Prior Knowledge for Challenging Chinese Machine Reading Comprehension (TACL 2020) [[paper]](https://arxiv.org/abs/1904.09679)[[data]](https://github.com/nlpdata/c3) - ***C3***
-- TYDI QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages (TACL 2020) [[paper]](https://storage.cloud.google.com/tydiqa/tydiqa.pdf)[[data]](https://github.com/google-research-datasets/tydiqa) - ***TyDi QA***
-- MIMICS: A Large-Scale Data Collection for Search Clarification (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.10174)[[data]](https://github.com/microsoft/MIMICS) - ***MIMICS***
-
+- **SQuAD: 100,000+ Questions for Machine Comprehension of Text**. *Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, Percy Liang*. (EMNLP 2016) [[paper]](https://www.aclweb.org/anthology/D16-1264/)[[data]](https://github.com/rajpurkar/SQuAD-explorer/tree/master/dataset)
+- **Know What You Don't Know: Unanswerable Questions for SQuAD**. *Pranav Rajpurkar, Robin Jia, Percy Liang*. (ACL 2018) [[paper]](https://www.aclweb.org/anthology/P18-2124/)[[data]](https://github.com/rajpurkar/SQuAD-explorer/tree/master/dataset) - ***SQuAD 2.0***
+- **DuReader: a Chinese Machine Reading Comprehension Dataset from Real-world Applications**. *Wei He, Kai Liu, Jing Liu, Yajuan Lyu, Shiqi Zhao, Xinyan Xiao, Yuan Liu, Yizhong Wang, Hua Wu, Qiaoqiao She, Xuan Liu, Tian Wu, Haifeng Wang*. (ACL 2018 QA workshop) [[paper]](https://www.aclweb.org/anthology/W18-2605/)[[data]](https://github.com/baidu/DuReader)
+- **HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering**. *Zhilin Yang, Peng Qi, Saizheng Zhang, Yoshua Bengio, William W. Cohen, Ruslan Salakhutdinov, Christopher D. Manning*. (EMNLP 2018) [[paper]](https://arxiv.org/abs/1809.09600)[[data]](https://hotpotqa.github.io/)
+- **QuAC : Question Answering in Context**. *Eunsol Choi, He He, Mohit Iyyer, Mark Yatskar, Wen-tau Yih, Yejin Choi, Percy Liang, Luke Zettlemoyer*. (EMNLP 2018) [[paper]](https://arxiv.org/abs/1808.07036)[[data]](https://quac.ai/)
+- **A Question-Entailment Approach to Question Answering**. *Asma Ben Abacha, Dina Demner-Fushman*. (BMC Bioinformatics 20, 511 (2019)) [[paper]](https://arxiv.org/abs/1901.08079)[[data]](https://github.com/abachaa/MedQuAD) - ***MedQuAD***
+- **CoQA: A Conversational Question Answering Challenge**. *Siva Reddy, Danqi Chen, Christopher D. Manning*. (NAACL 2019 & TACL 2019) [[paper]](https://arxiv.org/pdf/1808.07042.pdf) [[data]](https://stanfordnlp.github.io/coqa/)
+- **DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs**. *Dheeru Dua, Yizhong Wang, Pradeep Dasigi, Gabriel Stanovsky, Sameer Singh, Matt Gardner*. (NAACL-HLT 2019) [[paper]](https://arxiv.org/abs/1903.00161)
+- **ChID: A Large-scale Chinese IDiom Dataset for Cloze Test**. *Chujie Zheng, Minlie Huang, Aixin Sun*. (ACL 2019) [[paper]](https://arxiv.org/abs/1906.01265)
+- **Investigating Prior Knowledge for Challenging Chinese Machine Reading Comprehension**. *Kai Sun, Dian Yu, Dong Yu, Claire Cardie*. (TACL 2020) [[paper]](https://arxiv.org/abs/1904.09679)[[data]](https://github.com/nlpdata/c3) - ***C3***
+- **TYDI QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages**. *Jonathan H. Clark, Jennimaria Palomaki, Vitaly Nikolaev, Eunsol Choi, Dan Garrette, Michael Collins, Tom Kwiatkowski*. (TACL 2020) [[paper]](https://storage.cloud.google.com/tydiqa/tydiqa.pdf)[[data]](https://github.com/google-research-datasets/tydiqa)
+- **MIMICS: A Large-Scale Data Collection for Search Clarification**. *Hamed Zamani, Gord Lueck, Everest Chen, Rodolfo Quispe, Flint Luu, Nick Craswell*. (CIKM 2020) [[paper]](https://arxiv.org/abs/2006.10174)[[data]](https://github.com/microsoft/MIMICS)
 
 ## Repository & Toolkit
 - [AllenAI / allennlp-reading-comprehension](https://github.com/allenai/allennlp-reading-comprehension) - Reading comprehension tookit by the AllenNLP team
