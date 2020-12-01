@@ -40,6 +40,7 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - [AllenAI / allennlp-reading-comprehension](https://github.com/allenai/allennlp-reading-comprehension) - Reading comprehension tookit by the AllenNLP team
 - [ankit-ai / BertQA-Attention-on-Steroids](https://github.com/ankit-ai/BertQA-Attention-on-Steroids)
 - [alsang / BiDAF-pytorch](https://github.com/galsang/BiDAF-pytorch)
+- [BshoterJ / awesome-kgqa](https://github.com/BshoterJ/awesome-kgqa) - A collection of some materials of knowledge graph question answering
 - [cdqa-suite / cdQA](https://github.com/cdqa-suite/cdQA)
 - [cdqa-suite / cdQA-annotator](https://github.com/cdqa-suite/cdQA-annotator)
 - [deepset-ai / Haystack](https://github.com/deepset-ai/haystack)
