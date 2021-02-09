@@ -17,10 +17,10 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - **Is Graph Structure Necessary for Multi-hop Question Answering?**. *Nan Shao, Yiming Cui, Ting Liu, Shijin Wang, Guoping Hu*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2004.03096)
 
 ## Survey & Review & Tutorial
-- Neural Machine Reading Comprehension: Methods and Trends (Applied Sciences 2019) [[paper]](https://arxiv.org/abs/1907.01118)
-- Research on Machine Reading Comprehension and Textual Question Answering (Minghao Hu's PhD thesis 2019 in Chinese) [[paper]](https://github.com/huminghao16/thesis)
-- Neural Reading Comprehension and Beyond (Danqi Chen's PhD thesis 2019) [[paper]](https://purl.stanford.edu/gd576xb1833)
-- Open-Domain Question Answering (ACL 2020) [[slides]](https://github.com/danqi/acl2020-openqa-tutorial)
+- **Neural Machine Reading Comprehension: Methods and Trends**. *Shanshan Liu, Xin Zhang, Sheng Zhang, Hui Wang, Weiming Zhang* (Applied Sciences 2019) [[paper]](https://arxiv.org/abs/1907.01118)
+- **Research on Machine Reading Comprehension and Textual Question Answering**. *Minghao Hu*. (PhD thesis 2019 in Chinese) [[paper]](https://github.com/huminghao16/thesis)
+- **Neural Reading Comprehension and Beyond**. *Danqi Chen*. (PhD thesis 2019) [[paper]](https://purl.stanford.edu/gd576xb1833)
+- **Open-Domain Question Answering**. *Danqi Chen*. (ACL 2020) [[slides]](https://github.com/danqi/acl2020-openqa-tutorial)
 
 ## Dataset
 - **SQuAD: 100,000+ Questions for Machine Comprehension of Text**. *Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, Percy Liang*. (EMNLP 2016) [[paper]](https://www.aclweb.org/anthology/D16-1264/)[[data]](https://github.com/rajpurkar/SQuAD-explorer/tree/master/dataset)
@@ -55,12 +55,18 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - [THUNLP / RCPapers](https://github.com/thunlp/RCPapers)
 - [xanhho / Reading-Comprehension-Question-Answering-Papers](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers) - Survey on Machine Reading Comprehension
 - [YingZiqiang / PyTorch-MRCToolkit](https://github.com/YingZiqiang/PyTorch-MRCToolkit)
+- [yizhen20133868 / NLP-Conferences-Code](https://github.com/yizhen20133868/NLP-Conferences-Code)
 - [ymcui / Chinese-RC-Datasets](https://github.com/ymcui/Chinese-RC-Datasets)
 
 ## Blog Post
 ### English
 - [Beyond Local Pattern Matching: Recent Advances in Machine Reading](https://ai.stanford.edu/blog/beyond-local-pattern-matching/)
 ### Chinese
+- [changreal / 【总结向】MRC 经典模型与技术](https://blog.csdn.net/changreal/article/details/105074629)
+- [changreal / 【总结向】从CMRC2019头部排名看中文MRC](https://blog.csdn.net/changreal/article/details/105363937)
+- [humdingers / 2020法研杯阅读理解赛道第一名方案](https://github.com/humdingers/2020CAIL_LDLJ)
+- [Luke / 机器阅读理解之多答案抽取](https://zhuanlan.zhihu.com/p/101248202)
 - [科学空间 / 学会提问的BERT：端到端地从篇章中构建问答对](https://kexue.fm/archives/7630)
 - [科学空间 / “非自回归”也不差：基于MLM的阅读理解问答](https://kexue.fm/archives/7148)
 - [科学空间 / 万能的seq2seq：基于seq2seq的阅读理解问答](https://kexue.fm/archives/7115)
+- [知乎问答 / 机器阅读理解方向有什么值得follow的大佬，网站等等](https://www.zhihu.com/question/358469127/answer/1028144909)
