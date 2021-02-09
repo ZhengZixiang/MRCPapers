@@ -57,6 +57,7 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - [YingZiqiang / PyTorch-MRCToolkit](https://github.com/YingZiqiang/PyTorch-MRCToolkit)
 - [yizhen20133868 / NLP-Conferences-Code](https://github.com/yizhen20133868/NLP-Conferences-Code)
 - [ymcui / Chinese-RC-Datasets](https://github.com/ymcui/Chinese-RC-Datasets)
+- [zcgzcgzcg1 / MRC_book](https://github.com/zcgzcgzcg1/MRC_book) - 《机器阅读理解：算法与实践》代码
 
 ## Blog Post
 ### English
@@ -69,4 +70,5 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - [科学空间 / 学会提问的BERT：端到端地从篇章中构建问答对](https://kexue.fm/archives/7630)
 - [科学空间 / “非自回归”也不差：基于MLM的阅读理解问答](https://kexue.fm/archives/7148)
 - [科学空间 / 万能的seq2seq：基于seq2seq的阅读理解问答](https://kexue.fm/archives/7115)
+- [平安寿险PAI / 机器阅读理解探索与实践](https://zhuanlan.zhihu.com/p/109309164)
 - [知乎问答 / 机器阅读理解方向有什么值得follow的大佬，网站等等](https://www.zhihu.com/question/358469127/answer/1028144909)
