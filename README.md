@@ -21,6 +21,7 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - **Research on Machine Reading Comprehension and Textual Question Answering**. *Minghao Hu*. (PhD thesis 2019 in Chinese) [[paper]](https://github.com/huminghao16/thesis)
 - **Neural Reading Comprehension and Beyond**. *Danqi Chen*. (PhD thesis 2019) [[paper]](https://purl.stanford.edu/gd576xb1833)
 - **Open-Domain Question Answering**. *Danqi Chen*. (ACL 2020) [[slides]](https://github.com/danqi/acl2020-openqa-tutorial)
+- **English Machine Reading Comprehension Datasets: A Survey**. *Daria Dzendzik, Carl Vogel, Jennifer Foster*. (CoRR 2021) [[paper]](https://arxiv.org/abs/2101.10421)
 
 ## Dataset
 - **SQuAD: 100,000+ Questions for Machine Comprehension of Text**. *Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, Percy Liang*. (EMNLP 2016) [[paper]](https://www.aclweb.org/anthology/D16-1264/)[[data]](https://github.com/rajpurkar/SQuAD-explorer/tree/master/dataset)
@@ -47,12 +48,14 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - [Facebook Research / ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets
 - [efficientqa/retrieval-based-baselines](https://github.com/efficientqa/retrieval-based-baselines) - Tutorials on training and testing retrieval-based models
 - [IndexFziQ / KMRC-Papers](https://github.com/IndexFziQ/KMRC-Papers)
+- [lcdevelop / ChatBotCourse](https://github.com/lcdevelop/ChatBotCourse) - 自己动手做聊天机器人教程
 - [lixinsu / RCZoo](https://github.com/lixinsu/RCZoo)
 - [seriousran / awesome-qa](https://github.com/seriousran/awesome-qa)
 - [Sogou / SMRCToolkit](https://github.com/sogou/SMRCToolkit) - Sogou Machine Reading Comprehension (SMRC) toolkit based on TensorFlow
 - [songyingxin / BERT-MRC-RACE](https://github.com/songyingxin/BERT-MRC-RACE)
 - [tangbinh / question-answering](https://github.com/tangbinh/question-answering)
-- [THUNLP / RCPapers](https://github.com/thunlp/RCPapers)
+- [THUNLP / RCPapers](https://github.com/thunlp/RCPapers)\
+- [wavewangyue / kbqa](https://github.com/wavewangyue/kbqa) - 基于知识库的问答：seq2seq模型实践
 - [xanhho / Reading-Comprehension-Question-Answering-Papers](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers) - Survey on Machine Reading Comprehension
 - [YingZiqiang / PyTorch-MRCToolkit](https://github.com/YingZiqiang/PyTorch-MRCToolkit)
 - [yizhen20133868 / NLP-Conferences-Code](https://github.com/yizhen20133868/NLP-Conferences-Code)
