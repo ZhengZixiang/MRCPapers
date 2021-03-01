@@ -15,6 +15,7 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - **Retrospective Reader for Machine Reading Comprehension**. *Zhuosheng Zhang, Junjie Yang, Hai Zhao*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2001.09694)[[Chinese blog]](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247502891&idx=1&sn=8f3d552ee384544d0b9a868e01b91ed9&key=5fa67e91c99877c949e72c80560ca0bb5dc99de132236c4b530784a3c3c2cc93a94dcd482b4968b128c7bc7553888c5df30cc4f734abb1a63a2bd02402645a9b966bd4291e333ef13e861eb06c80822a&ascene=1&uin=Mjg1NTM0NDcyMw%3D%3D&devicetype=Windows+10&version=6208006f&lang=zh_CN&exportkey=A%2BCwv01k%2FtyMn%2Ft38iF3KbY%3D&pass_ticket=nkIz09BYlgtIrHo7XkM4ahTkS8sck64jbLwU0LotdcTnxt2f%2FIuSGmn33Pc7gW1f) - ***Retro-Reader***
 - **DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering**. *Qingqing Cao, Harsh Trivedi, Aruna Balasubramanian, Niranjan Balasubramanian*. (ACL 2020) [[paper]](https://arxiv.org/abs/2005.00697)[[code]](https://github.com/StonyBrookNLP/deformer) - ***DeFormer***
 - **Is Graph Structure Necessary for Multi-hop Question Answering?**. *Nan Shao, Yiming Cui, Ting Liu, Shijin Wang, Guoping Hu*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2004.03096)
+- **HopRetriever: Retrieve Hops over Wikipedia to Answer Complex Questions**. *Shaobo Li, Xiaoguang Li, Lifeng Shang, Xin Jiang, Qun Liu, Chengjie Sun, Zhenzhou Ji, Bingquan Liu*. (AAAAI 2021) [[paper]](https://arxiv.org/abs/2012.15534)[[Chinese blog]](https://mp.weixin.qq.com/s/vgx4JBJHxigySffIXXymtg)
 
 ## Survey & Review & Tutorial
 - **Neural Machine Reading Comprehension: Methods and Trends**. *Shanshan Liu, Xin Zhang, Sheng Zhang, Hui Wang, Weiming Zhang* (Applied Sciences 2019) [[paper]](https://arxiv.org/abs/1907.01118)
@@ -48,6 +49,7 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - [Facebook Research / ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets
 - [efficientqa/retrieval-based-baselines](https://github.com/efficientqa/retrieval-based-baselines) - Tutorials on training and testing retrieval-based models
 - [IndexFziQ / KMRC-Papers](https://github.com/IndexFziQ/KMRC-Papers)
+- [krystalan / Multi-hopRC](https://github.com/krystalan/Multi-hopRC) - 多跳阅读理解相关论文
 - [lcdevelop / ChatBotCourse](https://github.com/lcdevelop/ChatBotCourse) - 自己动手做聊天机器人教程
 - [lixinsu / RCZoo](https://github.com/lixinsu/RCZoo)
 - [seriousran / awesome-qa](https://github.com/seriousran/awesome-qa)
