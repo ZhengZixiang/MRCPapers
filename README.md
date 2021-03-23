@@ -14,8 +14,12 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - **DCMN+: Dual Co-Matching Network for Multi-choice Reading Comprehension**. *Shuailiang Zhang, Hai Zhao, Yuwei Wu, Zhuosheng Zhang, Xi Zhou, Xiang Zhou*. (AAAI 2020) [[paper]](https://arxiv.org/abs/1908.11511.pdf)
 - **Retrospective Reader for Machine Reading Comprehension**. *Zhuosheng Zhang, Junjie Yang, Hai Zhao*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2001.09694)[[Chinese blog]](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247502891&idx=1&sn=8f3d552ee384544d0b9a868e01b91ed9&key=5fa67e91c99877c949e72c80560ca0bb5dc99de132236c4b530784a3c3c2cc93a94dcd482b4968b128c7bc7553888c5df30cc4f734abb1a63a2bd02402645a9b966bd4291e333ef13e861eb06c80822a&ascene=1&uin=Mjg1NTM0NDcyMw%3D%3D&devicetype=Windows+10&version=6208006f&lang=zh_CN&exportkey=A%2BCwv01k%2FtyMn%2Ft38iF3KbY%3D&pass_ticket=nkIz09BYlgtIrHo7XkM4ahTkS8sck64jbLwU0LotdcTnxt2f%2FIuSGmn33Pc7gW1f) - ***Retro-Reader***
 - **DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering**. *Qingqing Cao, Harsh Trivedi, Aruna Balasubramanian, Niranjan Balasubramanian*. (ACL 2020) [[paper]](https://arxiv.org/abs/2005.00697)[[code]](https://github.com/StonyBrookNLP/deformer) - ***DeFormer***
-- **Is Graph Structure Necessary for Multi-hop Question Answering?**. *Nan Shao, Yiming Cui, Ting Liu, Shijin Wang, Guoping Hu*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2004.03096)
 - **HopRetriever: Retrieve Hops over Wikipedia to Answer Complex Questions**. *Shaobo Li, Xiaoguang Li, Lifeng Shang, Xin Jiang, Qun Liu, Chengjie Sun, Zhenzhou Ji, Bingquan Liu*. (AAAAI 2021) [[paper]](https://arxiv.org/abs/2012.15534)[[Chinese blog]](https://mp.weixin.qq.com/s/vgx4JBJHxigySffIXXymtg)
+- **Is Graph Structure Necessary for Multi-hop Question Answering?**. *Nan Shao, Yiming Cui, Ting Liu, Shijin Wang, Guoping Hu*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2004.03096)
+- **DUMA: Reading Comprehension with Transposition Thinking**. *Pengfei Zhu, Hai Zhao, Xiaoguang Li*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2001.09415)
+- **No Answer is Better Than Wrong Answer: A Reflection Model for Document Level Machine Reading Comprehension**. *Xuguang Wang, Linjun Shou, Ming Gong, Nan Duan, Daxin Jiang*. (Findings of EMNLP 2020) [[paper]](https://arxiv.org/abs/2009.12056)
+- **CogLTX: Applying BERT to Long Texts**. *Ming Ding, Chang Zhou, Hongxia Yang, Jie Tang*. (NeurIPS 2020) [[paper]](https://proceedings.neurips.cc/paper/2020/hash/96671501524948bc3937b4b30d0e57b9-Abstract.html)[[code]](https://github.com/Sleepychord/CogLTX)
+- **Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension**. *Hongyu Gong, Yelong Shen, Dian Yu, Jianshu Chen, Dong Yu*. (ACL 2020) [[paper]](https://arxiv.org/abs/2005.08056)[[code]](https://github.com/HongyuGong/RCM-Question-Answering)
 
 ## Survey & Review & Tutorial
 - **Neural Machine Reading Comprehension: Methods and Trends**. *Shanshan Liu, Xin Zhang, Sheng Zhang, Hui Wang, Weiming Zhang* (Applied Sciences 2019) [[paper]](https://arxiv.org/abs/1907.01118)
@@ -37,6 +41,8 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - **Investigating Prior Knowledge for Challenging Chinese Machine Reading Comprehension**. *Kai Sun, Dian Yu, Dong Yu, Claire Cardie*. (TACL 2020) [[paper]](https://arxiv.org/abs/1904.09679)[[data]](https://github.com/nlpdata/c3) - ***C3***
 - **TYDI QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages**. *Jonathan H. Clark, Jennimaria Palomaki, Vitaly Nikolaev, Eunsol Choi, Dan Garrette, Michael Collins, Tom Kwiatkowski*. (TACL 2020) [[paper]](https://storage.cloud.google.com/tydiqa/tydiqa.pdf)[[data]](https://github.com/google-research-datasets/tydiqa)
 - **MIMICS: A Large-Scale Data Collection for Search Clarification**. *Hamed Zamani, Gord Lueck, Everest Chen, Rodolfo Quispe, Flint Luu, Nick Craswell*. (CIKM 2020) [[paper]](https://arxiv.org/abs/2006.10174)[[data]](https://github.com/microsoft/MIMICS)
+- **ProtoQA: A Question Answering Dataset for Prototypical Common-Sense Reasoning**. *Michael Boratko, Xiang Lorraine Li, Rajarshi Das, Tim O'Gorman, Dan Le, Andrew McCallum*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2005.00771)[[data]](https://github.com/iesl/protoqa-data)
+- **Natural Questions: a Benchmark for Question Answering Research**. *Tom Kwiatkowski, Jennimaria Palomaki, Olivia Redfield, Michael Collins, Ankur Parikh, Chris Alberti, Danielle Epstein, Illia Polosukhin, Jacob Devlin, Kenton Lee, Kristina Toutanova, Llion Jones, Matthew Kelcey, Ming-Wei Chang, Andrew Dai, Jakob Uszkoreit, Quoc Le, Slav Petrov*. (TACL Vol.7 2019) [[paper]](https://transacl.org/ojs/index.php/tacl/article/view/1455)[[data]](https://ai.google.com/research/NaturalQuestions)
 
 ## Repository & Toolkit
 - [AllenAI / allennlp-reading-comprehension](https://github.com/allenai/allennlp-reading-comprehension) - Reading comprehension tookit by the AllenNLP team
@@ -71,9 +77,11 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - [changreal / 【总结向】MRC 经典模型与技术](https://blog.csdn.net/changreal/article/details/105074629)
 - [changreal / 【总结向】从CMRC2019头部排名看中文MRC](https://blog.csdn.net/changreal/article/details/105363937)
 - [humdingers / 2020法研杯阅读理解赛道第一名方案](https://github.com/humdingers/2020CAIL_LDLJ)
+- [Liberty / 文本太长，Transformer用不了怎么办](https://zhuanlan.zhihu.com/p/259835450)
 - [Luke / 机器阅读理解之多答案抽取](https://zhuanlan.zhihu.com/p/101248202)
 - [科学空间 / 学会提问的BERT：端到端地从篇章中构建问答对](https://kexue.fm/archives/7630)
 - [科学空间 / “非自回归”也不差：基于MLM的阅读理解问答](https://kexue.fm/archives/7148)
 - [科学空间 / 万能的seq2seq：基于seq2seq的阅读理解问答](https://kexue.fm/archives/7115)
 - [平安寿险PAI / 机器阅读理解探索与实践](https://zhuanlan.zhihu.com/p/109309164)
 - [知乎问答 / 机器阅读理解方向有什么值得follow的大佬，网站等等](https://www.zhihu.com/question/358469127/answer/1028144909)
+- [知乎问答 / Bert 如何解决长文本问题？](https://www.zhihu.com/question/327450789)
