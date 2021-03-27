@@ -67,7 +67,7 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - [Sogou / SMRCToolkit](https://github.com/sogou/SMRCToolkit) - Sogou Machine Reading Comprehension (SMRC) toolkit based on TensorFlow
 - [songyingxin / BERT-MRC-RACE](https://github.com/songyingxin/BERT-MRC-RACE)
 - [tangbinh / question-answering](https://github.com/tangbinh/question-answering)
-- [THUNLP / RCPapers](https://github.com/thunlp/RCPapers)\
+- [THUNLP / RCPapers](https://github.com/thunlp/RCPapers)
 - [wavewangyue / kbqa](https://github.com/wavewangyue/kbqa) - 基于知识库的问答：seq2seq模型实践
 - [xanhho / Reading-Comprehension-Question-Answering-Papers](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers) - Survey on Machine Reading Comprehension
 - [YingZiqiang / PyTorch-MRCToolkit](https://github.com/YingZiqiang/PyTorch-MRCToolkit)
@@ -85,6 +85,9 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 - [humdingers / 2020法研杯阅读理解赛道第一名方案](https://github.com/humdingers/2020CAIL_LDLJ)
 - [Liberty / 文本太长，Transformer用不了怎么办](https://zhuanlan.zhihu.com/p/259835450)
 - [Luke / 机器阅读理解之多答案抽取](https://zhuanlan.zhihu.com/p/101248202)
+- [xhsun1997 / 详细介绍有关RACE数据集上经典的机器阅读理解模型](https://blog.csdn.net/m0_45478865/article/details/106869172?spm=1001.2014.3001.5501)
+- [多多笔记 / 开放领域问答梳理系列(1)](https://mp.weixin.qq.com/s/iLE0zwhzd3ffri8VH24Z9g)
+- [多多笔记 / 开放领域问答梳理系列(2)](https://mp.weixin.qq.com/s/6DpC1uJqrsyl0a62uLl4zw)
 - [科学空间 / 学会提问的BERT：端到端地从篇章中构建问答对](https://kexue.fm/archives/7630)
 - [科学空间 / “非自回归”也不差：基于MLM的阅读理解问答](https://kexue.fm/archives/7148)
 - [科学空间 / 万能的seq2seq：基于seq2seq的阅读理解问答](https://kexue.fm/archives/7115)
