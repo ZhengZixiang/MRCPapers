@@ -77,7 +77,8 @@ Worth-reading paper list and other awesome resources on Machine Reading Comprehe
 
 ## Blog Post
 ### English
-- [Beyond Local Pattern Matching: Recent Advances in Machine Reading](https://ai.stanford.edu/blog/beyond-local-pattern-matching/)
+- [Google / Progress and Challenges in Long-Form Open-Domain Question Answering](https://ai.googleblog.com/2021/03/progress-and-challenges-in-long-form.html)
+- [Stanford / Beyond Local Pattern Matching: Recent Advances in Machine Reading](https://ai.stanford.edu/blog/beyond-local-pattern-matching/)
 ### Chinese
 - [changreal / 【总结向】MRC 经典模型与技术](https://blog.csdn.net/changreal/article/details/105074629)
 - [changreal / 【总结向】从CMRC2019头部排名看中文MRC](https://blog.csdn.net/changreal/article/details/105363937)
